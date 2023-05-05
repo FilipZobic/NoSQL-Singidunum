@@ -36,8 +36,10 @@ Some `docker-compose` files will lunch a GUI instance look into the file to see 
 Otherwise you can use your client of choice for example:
 * DataGrip supports (multiple databases)
 * intellij ultimate (multiple databases)
+* DataGrip (multiple databases)
 * MySQL Workbench (MySQL, MariaDB)
 * MongoDB Compass (MongoDB)
+* 3T (MongoDB)
 
 `TODO for admin: These GUIS should be optional enable docker-compose profiling`
 
